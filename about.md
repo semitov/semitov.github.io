@@ -1,5 +1,5 @@
 ---
-title: About Us
+title: About
 layout: about
 ---
 # About Us
