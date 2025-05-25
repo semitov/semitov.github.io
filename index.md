@@ -9,7 +9,7 @@ Our mission is to use, leverage and enhance standardized/popular open RISC-V cor
 
 We as a team believe that biggest problem of existing RISC-V hardware is lack of good firmware and software compatibility. For that reason, we want to focus on maximizing performance, power efficiency, and software support for existing RISC-V chips, ensuring they are fully utilized across embedded systems, cloud, edge computing, HPC and beyond.
 
-[Check out about us page][about] to learn more about our work.
+[Check out about us page](about) and [projects page](projects) to learn more about our work.
 
 ----
 
