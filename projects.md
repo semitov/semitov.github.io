@@ -1,11 +1,17 @@
 ---
-title: About Us
-layout: about
+title: Projects
+layout: projects
 ---
 
-# First project: RV32 MCU and Firmware
+# Projects
+
+## Unnamed RV32 MCU Project
 - Status: Preliminary
-- Description: An RV32 based MCU using a [CV32E40P core](https://github.com/openhwgroup/cv32e40p) by [OpenHW](https://openhwfoundation.org/) and custom firmware.
+- Description: An RV32 based MCU using a [CV32E40P core](https://github.com/openhwgroup/cv32e40p) by [OpenHW](https://openhwfoundation.org/).
+
+## Unnamed RV32 Firmware Project
+- Status: Preliminary
+- Description: An easy to use firmware for our RV32 MCU.
 
 ----
 
