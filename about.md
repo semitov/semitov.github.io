@@ -45,6 +45,7 @@ We as a team believe that biggest problem of existing RISC-V hardware is lack of
 ### Community Focus
 - Share knowledge through workshops and tutorials
 - Collaborate with RISC-V International and other RISC-V groups globally
+- Provide RISC-V based hardware/software solutions to other non-profit school projects
 - Bridge academia, userspace and industry through open philosophy
 
 ### Sector Focus
