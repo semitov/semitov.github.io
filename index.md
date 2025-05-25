@@ -3,25 +3,13 @@ title: Home
 layout: home
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+Welcome to our website! *SemiTO-V* is a student team at [Polytechnic University of Turin](https://www.polito.it/en) that uses open standard [RISC-V ISA](https://en.wikipedia.org/wiki/RISC-V) based cores to create custom processors, firmware, and software as well as our own PCB designs. We’re mastering everything from circuit analysis to processor architecture, and from RTL design to low-level software development for RISC-V platforms (RV32 and potentially RV64).
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+Our mission is to use, leverage and enhance standardized/popular open RISC-V cores, making our own processor designs (MCU, PPU etc), designing our own PCBs with FPGA and other components to run them, optimizing them for real-world applications (IMU, AI accelerator etc) while improving their software/firmware ecosystem and benchmarking them against other chips.
 
-More specifically, the created site:
+We as a team believe that biggest problem of existing RISC-V hardware is lack of good firmware and software compatibility. For that reason, we want to focus on maximizing performance, power efficiency, and software support for existing RISC-V chips, ensuring they are fully utilized across embedded systems, cloud, edge computing, HPC and beyond.
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
-
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
-
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
-
-To get started with creating a site, simply:
-
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
-
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+[Check out about us page][about] to learn more about our work.
 
 ----
 

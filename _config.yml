@@ -1,8 +1,10 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: SemiTO-V Team PoliTO
+description: A RISC-V student team at Polytechnic University of Turin specialized in processor design and low level software/firmware development
 theme: just-the-docs
 
 url: https://just-the-docs.github.io
+
+logo: "/assets/semitofivelogo.png"
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
