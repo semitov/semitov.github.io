@@ -10,6 +10,7 @@ Current Team Lead: Tan Siret Akıncı
 
 ## Hardware and Logic Dev (SW)
 - Maryam Abedi (FPGA dev)
+- Luca B. (FPGA dev, Core dev)
 - Arianna Bruno (Embedded, Circuit dev)
 - Furkan Kenber (Embedded, Circuit dev)
 
