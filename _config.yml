@@ -15,12 +15,16 @@ nav_external_links:
     url: https://forms.gle/TKjrRyMLgwAe8ptx9
     hide_icon: false # set to true to hide the external link icon - defaults to false
     opens_in_new_tab: false # set to true to open this link in a new tab - defaults to false
+  - title: GitHub
+    url: https://github.com/semitov
+    hide_icon: false
+    opens_in_new_tab: true
   - title: Telegram
     url: https://t.me/SemiTOFive
     hide_icon: false
     opens_in_new_tab: true
-  - title: GitHub
-    url: https://github.com/semitov
+  - title: YouTube
+    url: https://www.youtube.com/@SemiTO-V
     hide_icon: false
     opens_in_new_tab: true
 
