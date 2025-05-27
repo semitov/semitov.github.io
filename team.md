@@ -19,11 +19,11 @@ Current Team Lead: Tan Siret Akıncı
 - Niccolo Betteo (Linux)
 - Ece Karavar (Embedded, Network)
 - Amir Mohammad (Embedded, Linux, Instruction dev)
-- Ecrin Kızılbayır (Instruction dev)
 - Tunay Ada Karacan (Embedded, Instruction dev)
 - Alisina Karimi (Firmware, Linux, Instruction dev)
 
 ## PR
+- Ecrin Kızılbayır (Administration))
 - Ecenur Arslan (Marketing)
 
 ----
