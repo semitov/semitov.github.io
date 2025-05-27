@@ -16,7 +16,7 @@ Current Team Lead: Tan Siret Akıncı
 
 ## Software and Instruction Dev (SW)
 - Tan Siret Akıncı (Embedded, Firmware, Linux)
-- Niccolo Betteo (Linux)
+- Niccolo Betteo (Linux, Network)
 - Ece Karavar (Embedded, Network)
 - Amir Mohammad (Embedded, Linux, Instruction dev)
 - Tunay Ada Karacan (Embedded, Instruction dev)
