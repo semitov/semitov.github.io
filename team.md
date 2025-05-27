@@ -23,7 +23,7 @@ Current Team Lead: Tan Siret Akıncı
 - Alisina Karimi (Firmware, Linux, Instruction dev)
 
 ## PR
-- Ecrin Kızılbayır (Administration)
+- Ecrin Kızılbayır (Organization)
 - Ecenur Arslan (Marketing)
 
 ----
