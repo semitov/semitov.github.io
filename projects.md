@@ -11,7 +11,7 @@ layout: about
 
 ## Unnamed RV32 Firmware Project
 - Status: Preliminary
-- Description: An easy to use firmware for our RV32 MCU.
+- Description: An easy to use firmware for our RV32 MCU and already made ones.
 
 ----
 
