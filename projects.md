@@ -1,6 +1,8 @@
 ---
 title: Projects
 layout: about
+parent: About
+nav_order: 2
 ---
 
 # Projects
