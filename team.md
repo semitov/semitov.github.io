@@ -18,7 +18,7 @@ Current Team Lead: Tan Siret Akıncı
 - Tan Siret Akıncı (Embedded, Firmware, Linux)
 - Niccolo Betteo (Linux, Network)
 - Ece Karavar (Embedded, Network)
-- Amir Mohammad (Embedded, Linux, Instruction dev)
+- Amir Mohammad Farhang (Embedded, Linux, Instruction dev)
 - Tunay Ada Karacan (Embedded, Instruction dev)
 - Alisina Karimi (Firmware, Linux, Instruction dev)
 
