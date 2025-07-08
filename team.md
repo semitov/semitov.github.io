@@ -22,6 +22,7 @@ Current Team Lead: Tan Siret Akıncı
 - Amir Mohammad Farhang (Embedded, Linux, Instruction dev)
 - Tunay Ada Karacan (Embedded, Instruction dev)
 - Alisina Karimi (Firmware, Linux, Instruction dev)
+- Azamkhon Khudoyberdiev (Embedded, Firmware, Network)
 
 ## PR
 - Ecrin Kızılbayır (Organization)
