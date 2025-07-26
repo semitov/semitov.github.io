@@ -10,7 +10,7 @@ Current Supervisor: Dr. Claudio Passerone
 
 Current Team Lead: Tan Siret Akıncı
 
-## Hardware and Logic Dev (SW)
+## Hardware and Logic Dev (HW)
 - Arianna Bruno (Embedded, Circuit dev)
 - Aayush Eashan (FPGA dev, Circuit dev, Linux)
 - Furkan Kenber (Embedded, Circuit dev)
