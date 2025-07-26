@@ -6,6 +6,8 @@ nav_order: 2
 ---
 # The Team
 
+Current Supervisor: Dr. Claudio Passerone
+
 Current Team Lead: Tan Siret Akıncı
 
 ## Hardware and Logic Dev (SW)
