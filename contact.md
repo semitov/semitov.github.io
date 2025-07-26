@@ -5,12 +5,15 @@ layout: about
 # Contact Us
 
 General inquiries
+
 Email: [semitofive@gmail.com](mailto:semitofive@gmail.com)
 
 Supervisor Teacher: Dr. Claudio Passerone
+
 Email: [claudio.passerone@polito.it](mailto:claudio.passerone@polito.it)
 
 Founder and Team Lead: Tan Siret Akıncı
+
 Email: [tansiret.akinci@studenti.polito.it](mailto:tansiret.akinci@studenti.polito.it)
 ----
 
