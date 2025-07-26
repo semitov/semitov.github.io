@@ -9,23 +9,26 @@ nav_order: 2
 Current Team Lead: Tan Siret Akıncı
 
 ## Hardware and Logic Dev (SW)
-- Maryam Abedi (FPGA dev)
-- Saksham Tak (Embedded, FPGA dev)
-- Luca B. (FPGA dev, Instruction dev)
 - Arianna Bruno (Embedded, Circuit dev)
+- Aayush Eashan (FPGA dev, Circuit dev, Linux)
 - Furkan Kenber (Embedded, Circuit dev)
+- Luca B. (FPGA dev, Instruction dev)
+- Maryam Abedi (FPGA dev)
+- Saksham Tak (Embedded, FPGA dev, Circuit dev)
 
 ## Software and Instruction Dev (SW)
-- Tan Siret Akıncı (Embedded, Firmware, Linux)
-- Niccolo Betteo (Linux, Network)
-- Ece Karavar (Embedded, Network)
-- Amir Mohammad Farhang (Embedded, Linux, Instruction dev)
-- Tunay Ada Karacan (Embedded, Instruction dev)
 - Alisina Karimi (Firmware, Linux, Instruction dev)
+- Amir Mohammad Farhang (Embedded, Linux)
 - Azamkhon Khudoyberdiev (Embedded, Firmware, Network)
+- Can Çalı (Embedded, Firmware)
+- Ece Karavar (Embedded, Network)
+- Emiliano Salvetto (Linux, Firmware)
+- Niccolo Betteo (Linux, Network)
+- Tan Siret Akıncı (Embedded, Firmware, Linux)
+- Tunay Ada Karacan (Embedded, Instruction dev)
 
 ## PR
-- Ecrin Kızılbayır (Organization)
+- Ecrin Kızılbayır (Organization, Instruction dev)
 - Ecenur Arslan (Marketing)
 
 ----
