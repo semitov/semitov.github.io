@@ -7,6 +7,11 @@ nav_order: 2
 
 # Projects
 
+## RISC-V based Expansion Cards
+- Status: WIP (Work In Progress)
+- Description: Expansion Cards designed around RV32 chips such as RP2350 for Framewor mainboards.
+    - [rp2350-gpio-card](https://github.com/semitov/rp2350-gpio-card) 
+
 ## Unnamed RV32 MCU Project
 - Status: Preliminary
 - Description: An RV32 based MCU using a [CV32E40P core](https://github.com/openhwgroup/cv32e40p) by [OpenHW](https://openhwfoundation.org/).
