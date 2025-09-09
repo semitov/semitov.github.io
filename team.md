@@ -21,7 +21,7 @@ Team Leader: Tan Siret Akıncı
 ## Circuit Task Force
 
 - Arianna Bruno (Circuit dev, Embedded)
-- Furkan Kenber (Embedded, Circuit dev)
+- Furkan Kenber (Circuit dev, Embedded)
 - Tan Siret Akıncı (Circuit dev, Embedded, Linux)
 
 ## Software Task Force 
