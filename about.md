@@ -16,16 +16,21 @@ Our mission is to use, leverage and enhance standardized/popular open RISC-V cor
 
 We as a team believe that biggest problem of existing RISC-V hardware is lack of good firmware and software compatibility. For that reason, we want to focus on maximizing performance, power efficiency, and software support for existing RISC-V chips as well, ensuring they are fully utilized across embedded systems, cloud, edge computing, HPC and beyond.
 
-## Our Divisions
-### Hardware and Logic Dev
-- Use cores based on RISC-V ISA (RV32/RV64), add custom instructions and modules
-- Implement SoCs targeting FPGAs
-- Interface with peripherals, make our processors wifi-enabled.
-- Design open source FPGA and ASIC chip based PCBs
+## Our Task Forces
+### CPU Task Force
+- Design and use cores based on RISC-V ISA (RV32/RV64), add custom instructions and modules
+- Implement MCUs/SoCs targeting FPGAs
 - Explore advanced features such as pipelining and parallel processing (potentially for HPC)
+- Design ASIC for tapeout
 
-### Software and Instruction Dev
-- Develop/improve bare-metal firmware, RTOS (FreeRTOS) and time-sharing OS (Linux for RV64) implementations
+### Circuit Task Force
+- Design open source PCBs based on either FPGAs running our own RISC-V based processors or RISC-V based CPU chips already available on the market
+- Test RISC-V based hardware on the market and embed them in various practical/demo applications
+- Interface with peripherals
+- Make our processors wireless-enabled by embedding RF circuits for different protocols (WiFi, Bluetooth, Zigbee).
+
+### Software Task Force
+- Develop/improve bare-metal firmware, RTOS (FreeRTOS, Zephyr OS, RT-Thread) and GPOS (Linux for RV64) implementations
 - Port and optimize compilers for our processors
 - Contribute to the software that are important for RISC-V ecosystem (Linux kernel, LLVM, vector libraries)
 - Create our own SDKs, toolchains and simulators for our designs
