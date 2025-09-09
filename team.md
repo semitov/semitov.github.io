@@ -6,33 +6,37 @@ nav_order: 2
 ---
 # The Team
 
-Current Supervisor: Dr. Claudio Passerone
+## Executives
+Supervisor: Dr. Claudio Passerone
 
-Current Team Lead: Tan Siret Akıncı
+Team Leader: Tan Siret Akıncı
 
-## Hardware and Logic Dev (HW)
-- Arianna Bruno (Embedded, Circuit dev)
-- Aayush Eashan (FPGA dev, Circuit dev, Linux)
-- Furkan Kenber (Embedded, Circuit dev)
+## CPU Task Force
+
 - Luca B. (FPGA dev, Instruction dev)
 - Maryam Abedi (FPGA dev)
 - Saksham Tak (Embedded, FPGA dev, Circuit dev)
+- Tunay Ada Karacan (Embedded, Instruction dev)
 
-## Software and Instruction Dev (SW)
+## Circuit Task Force
+
+- Arianna Bruno (Circuit dev, Embedded)
+- Furkan Kenber (Embedded, Circuit dev)
+- Tan Siret Akıncı (Circuit dev, Embedded, Linux)
+
+## Software Task Force 
+
+- Aayush Eashan (Embedded, Linux)
 - Alisina Karimi (Firmware, Linux, Instruction dev)
 - Amir Mohammad Farhang (Embedded, Linux)
 - Azamkhon Khudoyberdiev (Embedded, Firmware, Network)
+- Beste Tanrıverdi (Embedded, Firmware)
 - Can Çalı (Embedded, Firmware)
 - Ece Karavar (Embedded, Network)
+- Ecenur Arslan (Embedded, Firmware)
+- Ecrin Kızılbayır (Firmware, Instruction dev)
 - Emiliano Salvetto (Linux, Firmware)
 - Niccolo Betteo (Linux, Network)
-- Tan Siret Akıncı (Embedded, Firmware, Linux)
-- Tunay Ada Karacan (Embedded, Instruction dev)
-
-## PR
-- Ecrin Kızılbayır (Organization, Instruction dev)
-- Ecenur Arslan (Marketing)
-
 ----
 
 [^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
