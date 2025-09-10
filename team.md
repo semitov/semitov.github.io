@@ -13,6 +13,7 @@ Team Leader: Tan Siret Akıncı
 
 ## CPU Task Force
 
+- Can Doğrul (Embedded, FPGA dev, Instruction dev)
 - Luca B. (FPGA dev, Instruction dev)
 - Maryam Abedi (FPGA dev)
 - Saksham Tak (Embedded, FPGA dev, Circuit dev)
