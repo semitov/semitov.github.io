@@ -12,9 +12,9 @@ This future is made possible by RISC-V, the open standard ISA (Instruction Set A
 In line with this vision, we want to build our careers in RISC-V-related fields and contribute to RISC-V as undergraduates and graduates alike. To achieve this, we believe the best way to start is to form a student team dedicated to RISC-V ISA and technologies around it.
 
 ## Our Mission
-Our mission is to use, leverage and enhance standardized/popular open RISC-V cores, making our own processor designs (MCU, PPU etc), designing our own PCBs with FPGA and other components to run them, optimizing them for real-world applications (IMU, AI accelerator etc) while improving their software/firmware ecosystem and benchmarking them against other chips.
+Our mission is to design our own application specific RISC-V cores, making our own processor designs (MCU, SoC, PPU etc), designing our own PCBs with FPGA chips, already produced RISC-V based chips and other components to run them, optimizing them for real-world applications (IMU, AI accelerator etc) while improving their software/firmware ecosystem and benchmarking them against other chips.
 
-We as a team believe that biggest problem of existing RISC-V hardware is lack of good firmware and software compatibility. For that reason, we want to focus on maximizing performance, power efficiency, and software support for existing RISC-V chips as well, ensuring they are fully utilized across embedded systems, cloud, edge computing, HPC and beyond.
+Biggest problem of existing RISC-V hardware is lack of good firmware and software compatibility. For that reason, other than making our own processor design, we want to focus on maximizing performance, power efficiency, and software support for existing RISC-V chips, ensuring they are fully utilized across embedded systems, cloud, edge computing, HPC and beyond.
 
 ## Our Task Forces
 ### CPU Task Force

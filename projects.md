@@ -12,13 +12,13 @@ nav_order: 2
 - Description: Expansion Cards designed around RV32 chips such as RP2350 for Framework mainboards.
     - [rp2350-gpio-card](https://github.com/semitov/rp2350-gpio-card) 
 
-## Unnamed RV32 MCU Project
+## Unnamed RV64 Core
 - Status: Preliminary
-- Description: An RV32 based MCU using a [CV32E40P core](https://github.com/openhwgroup/cv32e40p) by [OpenHW](https://openhwfoundation.org/).
+- Description: Designing an RV64 based core capable of running Linux.
 
-## Unnamed RV32 Firmware Project
-- Status: Preliminary
-- Description: An easy to use firmware for our RV32 MCU and already made ones.
+## RV32 Firmwares
+- Status: WIP
+- Description: Easy to use firmwares for RV32 MCUs.
 
 ----
 
