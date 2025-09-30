@@ -60,7 +60,7 @@ Biggest problem of existing RISC-V hardware is lack of good firmware and softwar
 - Discover internship and job opportunities about RISC-V thanks to team projects
 
 # Join Us!
-If you're passionate about processor architectures, digital electronic circuits, hardware description languages, compilers, or low-level software—come build processors with us! You can [join our Telegram community](https://t.me/SemiTOFive) or [apply for team membership](https://forms.gle/TKjrRyMLgwAe8ptx9) as a student registered to Polytechnic University of Turin.
+If you're passionate about processor architectures, digital electronic circuits, hardware description languages, compilers, or low-level software—come build processors with us! You can [join our Telegram community](https://t.me/SemiTOFive) or [apply for membership](https://forms.gle/TKjrRyMLgwAe8ptx9) as a student studying in Polytechnic University of Turin.
 
 ----
 
