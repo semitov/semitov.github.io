@@ -8,17 +8,22 @@ nav_order: 2
 # Projects
 
 ## RISC-V based Expansion Cards
-- Status: WIP (Work In Progress)
+- Status: Completed
 - Description: Expansion Cards designed around RV32 chips such as RP2350 for Framework mainboards.
     - [rp2350-gpio-card](https://github.com/semitov/rp2350-gpio-card) 
+
+## Unnamed RV32 Core
+- Status: Preliminary
+- Description: Designing a very simple RV32 as proof-of-concept.
 
 ## Unnamed RV64 Core
 - Status: Preliminary
 - Description: Designing an RV64 based core capable of running Linux.
 
 ## RV32 Firmwares
-- Status: WIP
+- Status: Under development
 - Description: Easy to use firmwares for RV32 MCUs.
+    - [SemiTO-V Micropython Compatibility Layer](https://github.com/semitov/SemiTOV-MCL)
 
 ----
 

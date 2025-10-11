@@ -13,8 +13,9 @@ Team Leader: Tan Siret Akıncı
 
 ## CPU Task Force
 
-- Aayush Eashan (Embedded, FPGA dev, Linux) -Project Leader
+- Aayush Eashan (Embedded, FPGA dev, Linux)
 - Can Doğrul (Embedded, FPGA dev, Instruction dev)
+- Long Pan (FPGA dev, Instruction dev) -Project leader
 - Luca B. (FPGA dev, Instruction dev)
 - Maryam Abedi (FPGA dev)
 - Saksham Tak (Embedded, FPGA dev, Circuit dev)
@@ -35,6 +36,8 @@ Team Leader: Tan Siret Akıncı
 - Can Çalı (Embedded, Firmware)
 - Ecrin Kızılbayır (Firmware, Instruction dev)
 - Emiliano Salvetto (Linux, Firmware) -Project Leader
+- Francesco Rocca (Firmware, Instruction dev)
+- Simeone Donnoli (Firmware)
 
 ----
 
