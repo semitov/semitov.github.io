@@ -14,6 +14,7 @@ If you don't know much about RISC-V ISA and ecosystem but want to learn more, we
     - [RISC-V Ecosystem Landscape](https://landscape.riscv.org/), list of all RISC-V related projects and organizations
     - [RISE Project](https://riseproject.dev/), a software compatibility project for RISC-V
     - [RISC-V Mentorship](https://riscv.org/community/mentorship/), mentee-mentorship program
+
 ----
 
 [^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
