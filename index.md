@@ -7,6 +7,13 @@ Welcome to our website! *SemiTO-V* is an upcoming RISC-V oriented student commun
 
 Check out [about us page](about) and [projects page](projects) to learn more about our work. Check [team page](team) to see the people that are behind SemiTO-V.
 
+If you don't know much about RISC-V ISA and ecosystem but want to learn more, we suggest you to check out following links:
+- [RISC-V International](https://riscv.org/)
+    - [RISC-V Training](https://riscv.org/community/training/)
+    - [Learn RISC-V GitHub repository](https://github.com/riscv/learn)
+    - [RISC-V Ecosystem Landscape](https://landscape.riscv.org/)
+    - [RISE Project](https://riseproject.dev/)
+    - [RISC-V Mentorship](https://riscv.org/community/mentorship/)
 ----
 
 [^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
