@@ -27,6 +27,17 @@ nav_external_links:
     url: https://www.youtube.com/@SemiTO-V
     hide_icon: true
     opens_in_new_tab: true
-
+  - title: Linkedin
+    url: https://www.linkedin.com/company/semito-v-risc-v/
+    hide_icon: true
+    opens_in_new_tab: true
+  - title: X.com
+    url: https://x.com/semito_v
+    hide_icon: true
+    opens_in_new_tab: true
+  - title: Instagram
+    url: https://www.instagram.com/semito_v?utm_source=qr&igsh=MTY4dWIzY2U0ZHV4dg==
+    hide_icon: true
+    opens_in_new_tab: true
 aux_links:
   Website's source code: https://github.com/semitov/semitov.github.io
