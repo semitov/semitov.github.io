@@ -21,6 +21,7 @@ Team Leader: Tan Siret Akıncı
 - Maryam Abedi (FPGA dev)
 - Saksham Tak (Embedded, FPGA dev, Circuit dev)
 - Tunay Ada Karacan (Embedded, FPGA dev)
+- Walter Porto (Microelectronics, FPGA dev)
 
 ## Circuit Task Force
 
