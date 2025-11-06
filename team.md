@@ -11,14 +11,18 @@ Supervisor: Dr. Claudio Passerone
 
 Team Leader: Tan Siret Akıncı
 
+Board: Tan Siret Akıncı (Circuit Task Force), Long Pan (CPU Task Force), Emiliano Salvetto (Software Task Force) 
+
 ## CPU Task Force
 
 - Aayush Eashan (Embedded, FPGA dev, Linux)
 - Alina Zmeu (FPGA dev, Architecture dev)
 - Can Doğrul (Embedded, FPGA dev, Architecture dev)
+- Ivana Drobac (FPGA dev, Architecture dev)
 - Long Pan (FPGA dev, Architecture dev) -Project leader
 - Luca B. (FPGA dev, Architecture dev)
-- Maryam Abedi (FPGA dev)
+- Maryam Abedi (FPGA dev, Architecture dev)
+- Raffaele Negri (FPGA dev, Architecture dev)
 - Saksham Tak (Embedded, FPGA dev, Circuit dev)
 - Tunay Ada Karacan (Embedded, FPGA dev)
 - Walter Porto (Microelectronics, FPGA dev)
@@ -26,14 +30,14 @@ Team Leader: Tan Siret Akıncı
 ## Circuit Task Force
 
 - Arianna Bruno (Circuit dev, Embedded)
+- Edoardo De Paoli (Circuit dev, FPGA dev)
+- Eylül Nihan Aycan (Circuit dev, FPGA dev)
 - Furkan Kenber (Circuit dev, Embedded)
 - Tan Siret Akıncı (Circuit dev, Embedded, Linux) -Project Leader
 
 ## Software Task Force 
 
-- Alisina Karimi (Firmware, Linux, Instruction dev)
 - Amir Mohammad Farhang (Embedded, Linux)
-- Azamkhon Khudoyberdiev (Embedded, Firmware, Network)
 - Beste Tanrıverdi (Embedded, Firmware)
 - Can Çalı (Embedded, Firmware)
 - Ecrin Kızılbayır (Firmware, Instruction dev)
