@@ -1,4 +1,5 @@
----
+--- 
+layout: about
 name: Guides Index
 ---
 # Guides Index
@@ -10,3 +11,4 @@ name: Guides Index
     </a>
   </h2>
 {% endfor %}
+

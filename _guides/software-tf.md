@@ -4,7 +4,7 @@ name: Software Task Force
 #  A Guide to Software Engineer Task Force (SemiTO-V)
 
 ## Active Projects
-- [SemiTO-V Board QEMU Implementation](todo-add-link)
+- [SemiTO-V Board QEMU Implementation](https://github.com/semitov/SemiTOV-Board)
 - [SemiTO-V MCL](https://github.com/semitov/SemiTOV-MCL)
 
 ## Beginner Wiki
