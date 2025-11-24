@@ -44,3 +44,8 @@ nav_external_links:
     hide_icons: true
 aux_links:
   Website's source code: https://github.com/semitov/semitov.github.io
+
+collections:
+  guides:
+    output: true
+    permalink: /guides/:name

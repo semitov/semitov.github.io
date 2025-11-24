@@ -1,6 +1,5 @@
 --- 
-title: Software Task Force
-layout: about
+name: Software Task Force
 ---
 #  A Guide to Software Engineer Task Force (SemiTO-V)
 
