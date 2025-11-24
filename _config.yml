@@ -39,9 +39,6 @@ nav_external_links:
     url: https://www.instagram.com/semito_v?utm_source=qr&igsh=MTY4dWIzY2U0ZHV4dg==
     hide_icon: true
     opens_in_new_tab: true
-  - title: Guides
-    url: https://semitov.github.io/guides/guide_index.md
-    hide_icons: true
 aux_links:
   Website's source code: https://github.com/semitov/semitov.github.io
 
@@ -49,3 +46,11 @@ collections:
   guides:
     output: true
     permalink: /guides/:name
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "guides"
+    values:
+      exclude: true

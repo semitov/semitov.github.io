@@ -1,6 +1,12 @@
 ---
 name: Guides Index
 ---
-# Guide Index
-[Software Task Force Guides](/guides/software-tf.md)
+# Guides Index
 
+{% for guide in site.guides %}
+  <h2>
+    <a href="{{ guide.url }}">
+      {{ guide.name }}
+    </a>
+  </h2>
+{% endfor %}
