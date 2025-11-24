@@ -40,7 +40,7 @@ nav_external_links:
     hide_icon: true
     opens_in_new_tab: true
   - title: Guides
-    url: guides_index.html
+    url: https://semitov.github.io/guides_index.html
     hide_icon: true
     opens_in_new_tab: true
 aux_links:
