@@ -11,7 +11,7 @@ Supervisor: Dr. Claudio Passerone
 
 Team Leader: Tan Siret Akıncı
 
-Board of Leaders: Tan Siret Akıncı, Emmanuele De Paoli, Long Pan, Emiliano Salvetto
+Board of Leaders: Tan Siret Akıncı, Emanuele De Paoli, Long Pan, Emiliano Salvetto
 
 ## CPU Task Force
 Project Leader: Long Pan (FPGA dev, Architecture dev)
@@ -31,7 +31,7 @@ Members:
 - Walter Porto (Microelectronics, FPGA dev)
 
 ## Circuit Task Force
-Project Leader: Emmanuele De Paoli (Circuit dev, FPGA)
+Project Leader: Emanuele De Paoli (Circuit dev, FPGA)
 
 Members:
 - Arianna Bruno (Circuit dev, Embedded)
