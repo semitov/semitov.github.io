@@ -11,39 +11,47 @@ Supervisor: Dr. Claudio Passerone
 
 Team Leader: Tan Siret Akıncı
 
-Board: Tan Siret Akıncı (Circuit Task Force), Long Pan (CPU Task Force), Emiliano Salvetto (Software Task Force) 
+Board: Tan Siret Akıncı, Emmanuele De Paoli, Long Pan, Emiliano Salvetto
 
 ## CPU Task Force
+Project Leader: Long Pan (FPGA dev, Architecture dev)
 
+Members:
 - Aayush Eashan (Embedded, FPGA dev, Linux)
+- Alessandro Bocchino (FPGA dev)
 - Alina Zmeu (FPGA dev, Architecture dev)
 - Can Doğrul (Embedded, FPGA dev, Architecture dev)
 - Ivana Drobac (FPGA dev, Architecture dev)
-- Long Pan (FPGA dev, Architecture dev) -Project leader
 - Luca B. (FPGA dev, Architecture dev)
 - Maryam Abedi (FPGA dev, Architecture dev)
 - Raffaele Negri (FPGA dev, Architecture dev)
 - Saksham Tak (Embedded, FPGA dev, Circuit dev)
 - Tunay Ada Karacan (Embedded, FPGA dev)
+- Valerio Donnini (FPGA dev)
 - Walter Porto (Microelectronics, FPGA dev)
 
 ## Circuit Task Force
+Project Leader: Emmanuele De Paoli (Circuit dev, FPGA)
 
+Members:
 - Arianna Bruno (Circuit dev, Embedded)
-- Edoardo De Paoli (Circuit dev, FPGA dev)
+- Carlo Bendelli (Circuit dev, Embedded)
 - Eylül Nihan Aycan (Circuit dev, FPGA dev)
 - Furkan Kenber (Circuit dev, Embedded)
-- Tan Siret Akıncı (Circuit dev, Embedded, Linux) -Project Leader
+- Tan Siret Akıncı (Circuit dev, Embedded, Linux)
 
 ## Software Task Force 
+Project Leader: Emiliano Salvetto (Embedded, Linux, Firmware)
 
+Members:
 - Amir Mohammad Farhang (Embedded, Linux)
 - Beste Tanrıverdi (Embedded, Firmware)
 - Can Çalı (Embedded, Firmware)
 - Ecrin Kızılbayır (Firmware, Instruction dev)
-- Emiliano Salvetto (Embedded, Linux, Firmware) -Project Leader
 - Francesco Rocca (Firmware, Instruction dev)
+- Lingxiao Jiang (Linux, Instruction dev)
 - Simeone Donnoli (Firmware)
+- Yuhui Yang (Linux, Firmware, Instruction dev)
 
 ----
 
