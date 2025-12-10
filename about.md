@@ -33,6 +33,7 @@ Biggest problem of existing RISC-V hardware is lack of good firmware and softwar
 - Develop/improve bare-metal firmware, RTOS (FreeRTOS, Zephyr OS, RT-Thread) and GPOS (Linux for RV64) implementations
 - Port and optimize compilers for our processors
 - Contribute to the software that are important for RISC-V ecosystem (Linux kernel, LLVM, vector libraries)
+- Develop our own innovative software compatible with RISC-V, and make existing free software compatible 
 - Create our own SDKs, toolchains and simulators for our designs
 - Develop benchmarks/configure existing ones to run tests on our designs and existing ones, comparing performance of RISC-V technologies
 
