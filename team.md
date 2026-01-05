@@ -45,6 +45,7 @@ Project Leader: Emiliano Salvetto (Embedded, Linux, Firmware)
 
 Members:
 - Amir Mohammad Farhang (Embedded, Linux)
+- Anthony Chedod (Embedded, Instruction dev)
 - Beste Tanrıverdi (Embedded, Firmware)
 - Can Çalı (Embedded, Firmware)
 - Ecrin Kızılbayır (Firmware, Instruction dev)
