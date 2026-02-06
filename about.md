@@ -4,6 +4,9 @@ layout: about
 ---
 # About Us
 
+## Our History
+SemiTO-V was organized as an informal RISC-V related open source hardware community around January 2025 by Tan Siret AKINCI, an electronic engineering student at Politecnico di Torino. Tan recognised that RISC-V is a serious contender to current closed source ISAs after witnessing release of RP2350 MCU chip and DC-ROMA RISC-V Mainboard for Framework laptops, and decided to promote it in campus. SemiTO-V gradually evolved into a dedicated team with some projects and event partecipations, and finally became an official student team at Politecnico di Torino on 31 October 2025, becoming the first RISC-V student team in Europe and one of the first in the world.
+
 ## Our Vision
 SemiTO-V team envisions a future where computing is truly democratized—a future in which both software and hardware are fully open, free from black boxes, proprietary restrictions, and vendor lock-in.
 
