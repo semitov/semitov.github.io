@@ -54,6 +54,7 @@ Members:
 - Navamita Tapaswi (Instruction dev)
 - Simeone Donnoli (Firmware)
 - Yuhui Yang (Linux, Firmware, Instruction dev)
+- Ottavio Monticelli (Linux, Firmware, Embedded)
 
 ----
 
