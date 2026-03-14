@@ -9,51 +9,66 @@ nav_order: 2
 ## Executives
 Supervisor: Dr. Claudio Passerone
 
-Team Leader: Tan Siret Akıncı
+Team Leader: Emanuele De Paoli
 
-Board of Leaders: Tan Siret Akıncı, Emanuele De Paoli, Long Pan, Emiliano Salvetto, Navamita Tapaswi
+Board of Leaders: Tan Siret Akıncı, Emanuele De Paoli, Ivana Drobac, Long Pan, Emiliano Salvetto, Navamita Tapaswi
 
-## CPU Task Force
+## ASIC Department
 Project Leader: Long Pan (FPGA dev, Architecture dev)
 
 Members:
-- Aayush Eashan (Embedded, FPGA dev, Linux)
-- Alessandro Bocchino (FPGA dev)
-- Alina Zmeu (FPGA dev, Architecture dev)
-- Can Doğrul (Embedded, FPGA dev, Architecture dev)
-- Ivana Drobac (FPGA dev, Architecture dev)
-- Luca B. (FPGA dev, Architecture dev)
-- Maryam Abedi (FPGA dev, Architecture dev)
 - Raffaele Negri (FPGA dev, Architecture dev)
 - Saksham Tak (Embedded, FPGA dev, Circuit dev)
-- Tunay Ada Karacan (Embedded, FPGA dev)
-- Valerio Donnini (FPGA dev)
 - Walter Porto (Microelectronics, FPGA dev)
 
-## Circuit Task Force
-Project Leader: Emanuele De Paoli (Circuit dev, FPGA)
+## Core Department
+Project Leader: Ivana Drobac (Architecture dev, FPGA)
+
+Members:
+- Aayush Eashan (Embedded, FPGA dev, Linux)
+- Can Doğrul (Embedded, FPGA dev, Architecture dev)
+- Luca B. (FPGA dev, Architecture dev)
+- Maryam Abedi (FPGA dev, Architecture dev)
+- Tunay Ada Karacan (Embedded, FPGA dev)
+
+## Circuit Department
+Project Leader: Alessandro Bocchino (Circuit dev, FPGA)
 
 Members:
 - Arianna Bruno (Circuit dev, Embedded)
 - Carlo Bendelli (Circuit dev, Embedded)
-- Eylül Nihan Aycan (Circuit dev, FPGA dev)
+- Emanuele De Paoli (Circuit dev, FPGA)
+- Eylül Nihan Aycan (Circuit dev, FPGA)
 - Furkan Kenber (Circuit dev, Embedded)
 - Tan Siret Akıncı (Circuit dev, Embedded, Linux)
 
-## Software Task Force 
+## Software Department 
 Project Leader: Emiliano Salvetto (Embedded, Linux, Firmware)
 
 Members:
 - Amir Mohammad Farhang (Embedded, Linux)
-- Anthony Chedod (Embedded, Instruction dev)
 - Beste Tanrıverdi (Embedded, Firmware)
-- Can Çalı (Embedded, Firmware)
 - Ecrin Kızılbayır (Firmware, Instruction dev)
 - Francesco Rocca (Firmware, Instruction dev)
 - Lingxiao Jiang (Linux, Instruction dev)
 - Navamita Tapaswi (Instruction dev)
+- Ottavio Monticelli (Linux, Instruction dev)
 - Simeone Donnoli (Firmware)
 - Yuhui Yang (Linux, Firmware, Instruction dev)
+
+## Public Management
+
+Head Manager: Navamita Tapaswi
+
+Members:
+- Carlo Mazzara (Video editing)
+- Tan Siret Akıncı (External relations)
+
+## Honorary Members
+- Tan Siret Akıncı: Founder of SemiTO-V at Politecnico di Torino and UNITRISC at Universita di Trieste, RISC-V Advocate at RISC-V International
+- Alessandra Dolmeta: Researcher at VLSI Lab at Politecnico di Torino, RISC-V Advocate at RISC-V International
+- Luigi Giuffrida: Researcher at VLSI Lab at Politecnico di Torino
+- Maurizio Martina: Professor at Politecnico di Torino
 
 ----
 
