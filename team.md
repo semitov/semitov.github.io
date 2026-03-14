@@ -14,22 +14,22 @@ Team Leader: Emanuele De Paoli
 Board of Leaders: Tan Siret Akıncı, Emanuele De Paoli, Ivana Drobac, Long Pan, Emiliano Salvetto, Navamita Tapaswi
 
 ## ASIC Department
-Project Leader: Long Pan (FPGA dev, Architecture dev)
+Project Leader: Long Pan (Architecture dev, Microelectronics, FPGA)
 
 Members:
 - Raffaele Negri (FPGA dev, Architecture dev)
-- Saksham Tak (Embedded, FPGA dev, Circuit dev)
-- Walter Porto (Microelectronics, FPGA dev)
+- Saksham Tak (Embedded, FPGA, Circuit dev)
+- Walter Porto (Microelectronics, FPGA)
 
 ## Core Department
 Project Leader: Ivana Drobac (Architecture dev, FPGA)
 
 Members:
-- Aayush Eashan (Embedded, FPGA dev, Linux)
-- Can Doğrul (Embedded, FPGA dev, Architecture dev)
+- Aayush Eashan (Embedded, FPGA, Linux)
+- Can Doğrul (Embedded, FPGA, Architecture dev)
 - Luca B. (FPGA dev, Architecture dev)
 - Maryam Abedi (FPGA dev, Architecture dev)
-- Tunay Ada Karacan (Embedded, FPGA dev)
+- Tunay Ada Karacan (Embedded, FPGA)
 
 ## Circuit Department
 Project Leader: Alessandro Bocchino (Circuit dev, FPGA)
