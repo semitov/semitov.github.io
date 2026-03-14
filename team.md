@@ -66,9 +66,9 @@ Members:
 
 ## Honorary Members
 - Tan Siret Akıncı: Founder of SemiTO-V at Politecnico di Torino and UNITRISC at Universita di Trieste, RISC-V Advocate at RISC-V International
-- Alessandra Dolmeta: Researcher at VLSI Lab at Politecnico di Torino, RISC-V Advocate at RISC-V International
+- Dr. Alessandra Dolmeta: Researcher at VLSI Lab at Politecnico di Torino, RISC-V Advocate at RISC-V International
 - Luigi Giuffrida: Researcher at VLSI Lab at Politecnico di Torino
-- Maurizio Martina: Professor at Politecnico di Torino
+- Dr. Maurizio Martina: Professor at Politecnico di Torino
 
 ----
 
