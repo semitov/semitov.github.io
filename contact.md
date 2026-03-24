@@ -12,9 +12,9 @@ Supervisor Teacher: Dr. Claudio Passerone
 
 - Email: [claudio.passerone@polito.it](mailto:claudio.passerone@polito.it)
 
-Founder and Team Lead: Tan Siret Akıncı
+Team Leader: Emanuele De Paoli
 
-- Email: [tansiret.akinci@studenti.polito.it](mailto:tansiret.akinci@studenti.polito.it)
+- Email: [s354327@studenti.polito.it](mailto:s354327@studenti.polito.it)
 
 ----
 
