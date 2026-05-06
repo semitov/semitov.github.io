@@ -11,7 +11,14 @@ Supervisor: Dr. Claudio Passerone
 
 Team Leader: Emanuele De Paoli
 
-Board of Leaders: Tan Siret Akıncı, Emanuele De Paoli, Ivana Drobac, Long Pan, Emiliano Salvetto, Navamita Tapaswi
+Board of Leaders:
+- Tan Siret Akıncı
+- Emanuele De Paoli
+- Ivana Drobac
+- Long Pan
+- Emiliano Salvetto
+- Navamita Tapaswi
+- Alessandro Bocchino
 
 ## ASIC Department
 Project Leader: Long Pan (Architecture dev, Microelectronics, FPGA)
@@ -30,6 +37,9 @@ Members:
 - Luca B. (FPGA dev, Architecture dev)
 - Maryam Abedi (FPGA dev, Architecture dev)
 - Tunay Ada Karacan (Embedded, FPGA)
+- Valerio Donnini (Architecture dev)
+- Umut Angi (Verification)
+- Pietro Levo (Verification)
 
 ## Circuit Department
 Project Leader: Alessandro Bocchino (Circuit dev, FPGA)
@@ -53,7 +63,7 @@ Members:
 - Lingxiao Jiang (Linux, Instruction dev)
 - Navamita Tapaswi (Instruction dev)
 - Ottavio Monticelli (Linux, Instruction dev)
-- Simeone Donnoli (Firmware)
+- Simone Donnoli (Firmware)
 - Yuhui Yang (Linux, Firmware, Instruction dev)
 
 ## Public Management
@@ -63,6 +73,7 @@ Head Manager: Navamita Tapaswi
 Members:
 - Carlo Mazzara (Video editing)
 - Tan Siret Akıncı (External relations)
+- Filippo Brogi (PR and Management)
 
 ## Honorary Members
 - Tan Siret Akıncı: Founder of SemiTO-V at Politecnico di Torino and UNITRISC at Universita di Trieste, RISC-V Advocate at RISC-V International
