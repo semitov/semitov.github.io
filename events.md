@@ -1,6 +1,8 @@
 ---
 title: Events
 layout: about
+parent: About
+nav_order: 2
 ---
 
 # Events
