@@ -198,4 +198,4 @@ If you enjoy low level programming, understanding how software interacts with ha
 
 Ready to join SemiTO-V?
 
-[**Send your application**](paste google form here inside the brackets)
+[**Send your application**](https://forms.gle/YZc2rA6J3dHcWD9G8)
