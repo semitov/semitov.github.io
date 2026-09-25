@@ -8,6 +8,10 @@ nav_order: 4
 
 We are looking for motivated students to join SemiTO-V and contribute to our RISC-V projects.
 
+Ready to join SemiTO-V?
+
+[**Send your application**](https://forms.gle/YZc2rA6J3dHcWD9G8)
+
 ---
 
 ## Circuit Task Force
@@ -205,8 +209,33 @@ If you enjoy low-level programming, understanding how software interacts with ha
 
 ---
 
-## Apply
+## PR, Management & Marketing
 
-Ready to join SemiTO-V?
+The PR, Management & Marketing team helps grow SemiTO-V’s visibility, communicate its activities and build connections outside the team.
 
-[**Send your application**](https://forms.gle/YZc2rA6J3dHcWD9G8)
+We are looking for people interested in **one or more of the following areas**:
+
+- Social Media Management
+- Content Writing
+- Photography & Video Editing
+- Graphic Design
+- Sponsorship and Partnership Outreach
+- Event Organization and Promotion
+- Events and Opportunities Scouting
+
+**What you’ll do**
+
+Depending on your area, you may:
+
+- Manage and grow our social media presence
+- Share team activities, achievements and events
+- Create written, visual, photo and video content
+- Reach out to sponsors, partners and external organizations
+- Scout for events, competitions and other opportunities
+- Help organize and promote team activities and events
+
+**What you need to know**
+
+- Good communication and teamwork skills
+- Willingness to contribute actively
+- Italian is highly preferred for sponsorship and partnership outreach
